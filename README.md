@@ -1,4 +1,4 @@
-Blink Detection for Hands-Free Computing
+**Blink Detection for Hands-Free Computing**
 
 Overview:
 
